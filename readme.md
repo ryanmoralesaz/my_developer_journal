@@ -1,5 +1,8 @@
 # This is my journal
 
+April 23, 2023
+
+Wow, I was not expecting a month to have passed to update this. Today I'm working on migrating some folders between Google Drive and Dropbox. I think I'm going to use dropbox solely for storing family photos and music files and Google Drive to store all of my other documents and repos.
 March 29, 2023
 
 Today I recapped Tailwind CSS.  
