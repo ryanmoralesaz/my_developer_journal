@@ -1,9 +1,10 @@
 # This is my journal
 
-April 23, 2023
+_April 23, 2023_
 
 Wow, I was not expecting a month to have passed to update this. Today I'm working on migrating some folders between Google Drive and Dropbox. I think I'm going to use dropbox solely for storing family photos and music files and Google Drive to store all of my other documents and repos.
-March 29, 2023
+
+_March 29, 2023_
 
 Today I recapped Tailwind CSS.  
 I started a course on NextJS
